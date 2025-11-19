@@ -16,3 +16,4 @@ public class ApiKeyRequest {
     @Schema(description = "Nome da API Key", example = "Minha API Key", requiredMode = Schema.RequiredMode.REQUIRED)
     private String name;
 }
+
