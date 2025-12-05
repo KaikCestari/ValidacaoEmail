@@ -82,3 +82,4 @@ public class AdminUser implements UserDetails {
         return active;
     }
 }
+
