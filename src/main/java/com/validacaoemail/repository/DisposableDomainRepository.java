@@ -12,3 +12,4 @@ public interface DisposableDomainRepository extends JpaRepository<DisposableDoma
     boolean existsByDomainIgnoreCase(String domain);
 }
 
+
