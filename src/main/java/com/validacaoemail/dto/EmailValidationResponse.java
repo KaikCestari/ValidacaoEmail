@@ -29,3 +29,4 @@ public class EmailValidationResponse {
         private boolean isDisposableDomain;
     }
 }
+
