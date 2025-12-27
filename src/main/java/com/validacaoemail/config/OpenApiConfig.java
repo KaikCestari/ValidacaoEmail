@@ -38,3 +38,4 @@ public class OpenApiConfig {
                                 .description("API Key no header X-API-KEY")));
     }
 }
+
