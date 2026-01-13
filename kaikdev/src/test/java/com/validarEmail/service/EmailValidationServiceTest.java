@@ -1,17 +1,14 @@
-package com.validacaoemail.service;
+package com.validarEmail.service;
 
-import com.validacaoemail.dto.EmailVerifyResponse;
-import com.validacaoemail.repository.DisposableDomainRepository;
-import com.validacaoemail.validator.DisposableEmailValidator;
-import com.validacaoemail.validator.EmailFormatValidator;
+import com.validarEmail.dto.EmailVerifyResponse;
+import com.validarEmail.validator.DisposableEmailValidator;
+import com.validarEmail.validator.EmailFormatValidator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
-
-import java.util.Optional;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.ArgumentMatchers.anyString;
