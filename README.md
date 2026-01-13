@@ -10,7 +10,6 @@ API REST profissional desenvolvida em Java com Spring Boot para validação de e
 - ✅ Autenticação via API Key (header X-API-KEY) para endpoints públicos
 - ✅ Autenticação JWT para endpoints administrativos
 - ✅ Rate limiting (60 req/min por IP)
-- ✅ Arquitetura seguindo princípios SOLID
 - ✅ Documentação Swagger/OpenAPI integrada
 - ✅ Flyway para migrations do banco de dados
 
