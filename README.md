@@ -24,7 +24,7 @@ API REST profissional desenvolvida em Java com Spring Boot para validação de e
 ### Executando localmente
 
 1. Clone o repositório
-2. (Opcional) Crie um arquivo `.env` (exemplo abaixo)
+2.  Crie um arquivo `.env` (exemplo abaixo)
 3. Execute:
 
 ```bash
